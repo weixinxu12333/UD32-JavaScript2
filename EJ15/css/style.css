@@ -1,0 +1,9 @@
+.imagenes {
+    float: left;
+    width: 30%;
+}
+
+.imagen {
+    float: right;
+    width: 70%;
+}

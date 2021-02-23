@@ -1,0 +1,32 @@
+.banner {
+    background-color: rgba(252, 252, 31, 0.603);
+    border: salmon solid 3px;
+    height: 400px;
+    width: 500px;
+}
+
+.banner>input[type=text] {
+    border: salmon solid 1px;
+    margin: auto;
+    margin-top: 20px;
+    display: block;
+    width: 55%;
+    height: 50px;
+}
+
+button[type=button] {
+    height: 50px;
+    width: 50px;
+}
+
+.rojo>button[type=button]{
+    color:red;
+    width:31%;
+    margin-bottom: 10px;
+}
+
+.centro {
+    margin: auto;
+    margin-top: 20px;
+    width: 55%;
+}
